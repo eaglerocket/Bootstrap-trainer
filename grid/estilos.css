@@ -1,0 +1,23 @@
+header {
+  background: #2c3e50;
+  color: #fff;
+}
+
+article {
+  background: #d7d7d0
+}
+
+aside {
+  background: #fb763e;
+  color: #f0f9f5
+}
+
+.color1 {
+  background: #34495e;
+  color: #fff;
+}
+
+footer {
+  background: #56a18c;
+  color: #ebf2f2;
+}
